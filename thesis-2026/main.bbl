@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+
+\bibitem{nishimoto2025}
+西元大世, 森直樹, 岡田真.
+\newblock 日本語アスペクトベース感情分析におけるtransformer言語モデルを用いた多ラベル分類手法の性能向上手法の検討.
+\newblock 第39回人工知能学会全国大会論文集, 2025.
+
+\bibitem{survey}
+Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing, and Wai Lam.
+\newblock A survey on aspect-based sentiment analysis: Tasks, methods, and challenges.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering}, 2022.
+
+\bibitem{t5}
+Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, and Peter~J. Liu.
+\newblock Exploring the limits of transfer learning with a unified text-to-text transformer.
+\newblock {\em Journal of Machine Learning Research}, Vol.~21, pp. 1--67, 2020.
+
+\bibitem{gpt-oss}
+{OpenAI}.
+\newblock gpt-oss-120b \& gpt-oss-20b model card.
+\newblock {\em OpenAI Technical Report}, August 2025.
+
+\bibitem{CoT}
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed~H. Chi, Quoc~V. Le, and Denny Zhou.
+\newblock Chain-of-thought prompting elicits reasoning in large language models.
+\newblock In {\em Advances in Neural Information Processing Systems 35 (NeurIPS 2022)}, 2022.
+
+\bibitem{Fine-turn-CoT}
+Namgyu Ho, Laura Schmid, and Se-Young Yun.
+\newblock Large language models are reasoning teachers.
+\newblock In {\em Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)}, pp. 14852--14882. Association for Computational Linguistics, 2023.
+
+\bibitem{rakuten}
+Yuki Nakayama, Koji Murakami, Gautam Kumar, Sudha Bhingardive, and Ikuko Hardaway.
+\newblock A large-scale japanese dataset for aspect-based sentiment analysis.
+\newblock {\em Proceedings of the Thirteenth Language Resources and Evaluation Conference (LREC 2022)}, pp. 7014--7021, 2022.
+
+\bibitem{gas}
+Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing, and Wai Lam.
+\newblock Towards generative aspect-based sentiment analysis.
+\newblock In {\em Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing}, pp. 504--510, 2021.
+
+\end{thebibliography}
